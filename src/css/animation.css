@@ -1,0 +1,47 @@
+.border-animation::after {
+    content: "";
+    width: 0%;
+    height: 2px;
+    background-color: #FFDB58;
+    position: relative;
+    display:block;
+    top:3px;
+    transition:all 400ms ease;
+}
+
+.border-animation:hover::after{
+    width: 100%;
+}
+
+.border-animation-1::after {
+    content: "";
+    width: 0%;
+    height: 3px;
+    background-color: #283039;
+    position: relative;
+    display:block;
+    top:3px;
+    transition:all 400ms ease;
+}
+
+
+.border-animation-1:hover::after{
+    width: 100%;
+}
+
+
+.border-animation-2::after {
+    content: "";
+    width: 0%;
+    height: 3px;
+    background-color: #283039;
+    position: relative;
+    display:block;
+    top:3px;
+    transition:all 400ms ease;
+}
+
+
+.border-animation-2:hover::after{
+    width: 100%;
+}

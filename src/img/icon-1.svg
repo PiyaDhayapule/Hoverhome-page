@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="-367 281 56 51"
+	 enable-background="new -367 281 56 51" xml:space="preserve">
+<title>360 - Tabs (Outline)</title>
+<desc>Created with Sketch.</desc>
+<g id="Page-1" sketch:type="MSPage">
+	<g id="Icons" transform="translate(-122.000000, -601.000000)" sketch:type="MSArtboardGroup">
+		<g id="_x33_60---Tabs-_x28_Outline_x29_" transform="translate(123.000000, 602.000000)" sketch:type="MSLayerGroup">
+			
+				<path id="Path" sketch:type="MSShapeGroup" fill="none" stroke="#283039" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" d="
+				M-367,330h54v-37h-54V330z"/>
+			
+				<path id="Path_1_" sketch:type="MSShapeGroup" fill="none" stroke="#283039" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" d="
+				M-365,289h50H-365z"/>
+			
+				<path id="Path_2_" sketch:type="MSShapeGroup" fill="none" stroke="#283039" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" d="
+				M-362,285h44H-362z"/>
+			
+				<path id="Path_3_" sketch:type="MSShapeGroup" fill="none" stroke="#283039" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" d="
+				M-359,281h38H-359z"/>
+		</g>
+	</g>
+</g>
+<g>
+	<path fill="#283039" d="M-349.2,318.4h-1.5l-2-6.1l-2,6.1h-1.5l-2.7-8.7h1.8l1.7,6.1l2-6.1h1.4l2,6.1l1.7-6.1h1.9L-349.2,318.4z"/>
+	<path fill="#283039" d="M-335.5,318.4h-1.5l-2-6.1l-2,6.1h-1.5l-2.7-8.7h1.8l1.7,6.1l2-6.1h1.4l2,6.1l1.7-6.1h1.9L-335.5,318.4z"/>
+	<path fill="#283039" d="M-321.7,318.4h-1.5l-2-6.1l-2,6.1h-1.5l-2.7-8.7h1.8l1.7,6.1l2-6.1h1.4l2,6.1l1.7-6.1h1.9L-321.7,318.4z"/>
+</g>
+<path id="Path_4_" sketch:type="MSShapeGroup" fill="none" stroke="#283039" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" d="
+	M-312,300h-54"/>
+<g>
+	<circle fill="#283039" cx="-363" cy="297.1" r="1"/>
+	<circle fill="#283039" cx="-360.3" cy="297.1" r="1"/>
+	<circle fill="#283039" cx="-357.7" cy="297.1" r="1"/>
+</g>
+</svg>
